@@ -1,4 +1,4 @@
-# BombSquad Remote for Android
+# BombSquad Remote (Android)
 
 A small app allowing Android devices to function as a controller for the game BombSquad.
 
